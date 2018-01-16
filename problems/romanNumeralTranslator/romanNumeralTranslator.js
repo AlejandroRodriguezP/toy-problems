@@ -27,7 +27,18 @@ var DIGIT_VALUES = {
 };
 
 var translateRomanNumeral = function(romanNumeral) {
-// TODO: Implement me!
-/* START SOLUTION */
-  /* END SOLUTION */
+  var total = 0
+  var newArr = romanNumeral + [];
+  //input romanNumeral
+  // create var total
+
+  for(var i =0 ;i < newArr.length; i++){
+    return
+  }
+  if(romanNumeral > 0){
+  }
+  if(romanNumeral === 0){
+    return 0
+  }
+  //output number
 };
